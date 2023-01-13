@@ -1,6 +1,4 @@
 ---
-title: Objects in mirror are closer than they appear
+title: Welcome to my blog
 ---
 
-# Wow it's great to be here.
-I never thought I'd make it here.
